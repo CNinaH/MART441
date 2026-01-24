@@ -1,0 +1,31 @@
+h1 {
+    height: 65px;
+    color: #082b42;
+    font-family: Merriweather;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+body {
+    background-color: #91c8c5;
+}
+
+p {
+    background-color: #297872;
+    color: #112134;
+    font-family: Padauk;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
