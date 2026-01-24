@@ -1,0 +1,1 @@
+Homework2 a small inforamtion about myself for class.
