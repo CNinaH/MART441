@@ -1,0 +1,1 @@
+ChatGTP-It had the script change images along the way when choosing options for the story whicvh was interesting. I think that would be useful for story telling. The one thing I didn't really like, it added a step tracker which is not something that works with my story, though that maybe usefull for a web game.  

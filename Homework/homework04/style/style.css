@@ -1,0 +1,41 @@
+body{
+    background-color: #3784a2 ;
+}
+
+h1 {
+   font-family:Verdana; 
+   background-color: #76a6d7;
+   font-size: 65px;
+   text-align: center;
+   color: #FBF7F5;
+   margin-left: 5em;
+   margin-right: 5em;
+}
+
+
+p {
+    background-color: #76a6d7;
+    color:#FBF7F5;
+    font-family:Tahoma;
+    text-align: center;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+.options {
+    text-align: center;
+
+}
+
+button {
+    background-color:#234128;
+    color: #FBF7F5;
+    font-family:Tahoma;
+}
+
