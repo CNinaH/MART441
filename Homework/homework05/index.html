@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Choose your own adventure</title>
+        <link rel="stylesheet" type="text/css" href="style/style.css">
+    </head>
+
+    <body>
+        <h1>New Path</h1>
+
+        <div id="hero-iamge"> 
+            <img src="image/naturepath.jpg" id="heroimage" style="width: 100%"> 
+        </div>
+        <div id="storyline">
+            <p>On your hike, on a path you walk twice a week. You have noticed that the path seems different, there is smalller new path off to the left you have never seen. Feeling uneasy, you are have decide which way to go. Forward down the normal path one you are so familiare with, see where the new path leads to or turn around and head home?<br>
+            </br></p>
+            
+            
+        </div>
+        
+        <div class="options">
+            <input type="text" id="choice" style="text-align: center;" value="forward or new path"><br>
+            </br>
+            <button id="btnSubmit" onclick="getChoice1();">Submit</button>
+
+            <input type="text" id="choice2" value="investigate or head home" style="display:none"><br>
+            </br> 
+            <button id="btnSubmit2" onclick="getChoice2();">Submit</button>
+
+            <input type="text" id="choice3" value="continue or head back" style="display:none"><br>
+            </br>
+            <button id="btnSubmit3" onclick="getChoice3();">Submit</button>
+        
+            <input type="text" id="choice4" value="Restart" style="display:none">
+            <button onclick="restartStory();">Restart</button>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
