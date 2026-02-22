@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(74, 115, 204);
+}
+
+h1 {
+    color: white;
+}
+
+.Table{
+	display: table;
+	width: 100%;
+    
+}
+
+.TableRow {
+	display: table-row;
+    
+}
+
+.TableCell {
+	border: 2px solid #000000;
+	display: table-cell;
+	padding: 10px 10px;
+}
+
+.TableBody {
+	display: table-row-group;
+}
