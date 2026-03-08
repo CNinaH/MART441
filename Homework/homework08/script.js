@@ -12,7 +12,7 @@ class Slide
 
  let slide1 = new Slide(
     "Australia Fires",
-    "images/fire.PNG",
+    "images/fire.png",
     "The fires in Australia and fifrefighters working to control them. The climate change causes more fires to break out, leading to more damge to nature and civilization.",
     "National Interagency Fire Center", //https://wodnesprawy.pl/en/fires-in-australia-a-climate-extreme-on-the-other-side-of-the-world/
     "2020"
@@ -44,7 +44,7 @@ class Slide
 
  let slide5 = new Slide(
     "Uruguay Protest for Womens Rights",
-    "images/uruguay.PNG",
+    "images/uruguay.png",
     "The women of Latin America protesting for their rights as women. They protest against the violence and sexual harrasment in the work forece. This is important that no one feels threaten because of their gender.",
     "UN Women,", // https://www.flickr.com/photos/unwomen/27076938759
     "2017"
