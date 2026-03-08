@@ -12,7 +12,7 @@ class Slide
 
  let slide1 = new Slide(
     "Australia Fires",
-    "images/fire.jpg",
+    "images/fire.JPG",
     "The fires in Australia and fifrefighters working to control them. The climate change causes more fires to break out, leading to more damge to nature and civilization.",
     "National Interagency Fire Center", //https://wodnesprawy.pl/en/fires-in-australia-a-climate-extreme-on-the-other-side-of-the-world/
     "2020"
@@ -35,7 +35,7 @@ class Slide
  );
 
  let slide4 = new Slide(
-    "Irelenad Protest for the Disability",
+    "Ireland Protest for the Disability",
     "images/irelandprotest.jpg",
     "Ireleand citizens protesting foor the rights of the disabled, calling for more income. It is important that someone who is disabled and cannot work to be able to make enough to live off of.",
     "Unknown", //https://www.rte.ie/news/2026/0228/1560855-disability-protest-dublin/
@@ -43,7 +43,7 @@ class Slide
  );
 
  let slide5 = new Slide(
-    "Uruguay Potest for Womens Rigths",
+    "Uruguay Protest for Womens Rights",
     "images/uruguay.jpg",
     "The women of Latin America protesting for their rights as women. They protest against the violence and sexual harrasment in the work forece. This is important that no one feels threaten because of their gender.",
     "UN Women,", // https://www.flickr.com/photos/unwomen/27076938759
