@@ -1,0 +1,25 @@
+body{
+    background-color:#e6d3d5;
+}
+
+h1{
+    color: #373659;
+    text-align: center;
+}
+
+h2{
+    color: #373659;
+}
+.slideimage {
+    text-align: center;
+    background-color: #8a778d;
+}
+
+button {
+    align-items: center;
+    
+}
+
+p{
+    color: white;
+}
