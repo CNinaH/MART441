@@ -14,7 +14,7 @@ class Slide
     "Australia Fires",
     "images/australiafire.jpg",
     "The fires in Australia and fifrefighters working to control them. The climate change causes more fires to break out, leading to more damge to nature and civilization.",
-    "National Interagency Fire Center", //https://www.flickr.com/photos/nifc/49352244238
+    "National Interagency Fire Center", //https://wodnesprawy.pl/en/fires-in-australia-a-climate-extreme-on-the-other-side-of-the-world/
     "2020"
  );
 
