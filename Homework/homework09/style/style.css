@@ -1,0 +1,26 @@
+#shape {
+    position: absolute;
+    top: 750px;
+    left: 50px;
+
+}
+
+#text-container{
+    position: absolute;
+    color: plum;
+    text-align: center;
+    font-size: 50px;
+    left: 50px;
+}
+
+body{
+    background: whitesmoke;
+}
+
+#image{
+    position: absolute;
+    width: 800px;
+    top: 150px;
+    left: 50px;
+}
+
