@@ -31,13 +31,13 @@ var game = new Phaser.Game(config);
 
 function preload ()
 {
-    this.load.image('sky', 'assets/sky.png');
-    this.load.image('ground', 'assets/platform.png');
-    this.load.image('star', 'assets/star.png');
-    this.load.image('carrot', 'assets/carrot.png');
-    this.load.image('bomb', 'assets/bomb.png');
-    this.load.image('spike', 'assets/triangle.png');
-    this.load.spritesheet('dude', 'assets/dude.png',
+    this.load.image('sky', 'Assets/sky.png');
+    this.load.image('ground', 'Assets/platform.png');
+    this.load.image('star', 'Assets/star.png');
+    this.load.image('carrot', 'Assets/carrot.png');
+    this.load.image('bomb', 'Assets/bomb.png');
+    this.load.image('spike', 'Assets/triangle.png');
+    this.load.spritesheet('dude', 'Assets/dude.png',
         { frameWidth: 32, frameHeight: 48 });
 }
 
@@ -127,6 +127,7 @@ function create ()
     this.physics.add.collider(stars, platforms);
     this.physics.add.collider(carrots, platforms);
     this.physics.add.collider(bombs, platforms);
+    this.physics.add.collider(player, spikes);
 
   
     this.physics.add.overlap(player, stars, collectStar, null, this);
