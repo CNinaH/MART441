@@ -103,7 +103,7 @@ function create ()
     stars.children.iterate(function (child) {
 
     
-        child.setBounceY(Phaser.Math.FloatBetween(0.5, 0.9)); //Gravity of star
+        child.setBounceY(Phaser.Math.FloatBetween(0.5, 0.9)); // changed Gravity of star
 
     });
 
