@@ -1,0 +1,15 @@
+[
+
+  { "x": 460, "y": 110, "size": 15, "color": "#249dd1",  "value": 5},
+  { "x": 970, "y": 170, "size": 15, "color": "#249dd1","value": 5 },
+  { "x": 890, "y": 480, "size": 15, "color": "#249dd1","value": 5  },
+  { "x": 350, "y": 625, "size": 15, "color": "#249dd1","value": 5  },
+  { "x": 800, "y": 770, "size": 15, "color": "#249dd1","value": 5  },
+  { "x": 260, "y": 180, "size": 15, "color": "#249dd1","value": 5  },
+
+
+
+  { "x": 970, "y": 340, "size": 20, "color": "#a1ac14",
+    "value": 20}
+
+]
